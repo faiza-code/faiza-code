@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Faiza Alhandali!
 
-<!--
-**faiza-code/faiza-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer | 🌐 JavaScript | ⚙️ C# | 🎨 React 
 
-Here are some ideas to get you started:
+---
+## 🔧 Tech Skill 
+**Frontend:**
+- Html , CSS ,JavaScript
+- React.js , Bootsrap
+  
+**Backend:**
+- Node.js, Express.js , REST APIs 
+- MongoDB, PostgreSQL
+    
+## 🚀 About Me 
+- 🔭 I’m currently trainee at @CodeAcademy_om .
+- 🌱 I’m currently learning [C# | Next.js | TypeScript | DevOps].
+- 🤝 I’m open to collaborate on **full-stack projects**, **startups**, or **open-source**.
+- 📫 Reach me at: f2iza.na20@gmail.com
+- 🌐 Portfolio: https://f2iza.tech/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🧠 Fun Fact
+
+> "I love turning complex problems into simple, beautiful, and intuitive designs."
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/faiza-alhandali-631207193
+- Portfolio: https://f2iza.tech/
+- Email: f2iza.na20@gmail.com
