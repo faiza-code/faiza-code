@@ -3,6 +3,13 @@
 💻 Full-Stack Web Developer | 🌐 JavaScript | ⚙️ C# | 🎨 React 
 
 ---
+## 🚀 About Me 
+- 🔭 I’m currently trainee at @CodeAcademy_om .
+- 🌱 I’m currently learning [C# | Next.js | TypeScript | DevOps].
+- 🤝 I’m open to collaborate on **full-stack projects**, **startups**, or **open-source**.
+- 
+---
+
 ## 🔧 Tech Skill 
 **Frontend:**
 - Html , CSS ,JavaScript
@@ -12,11 +19,6 @@
 - Node.js, Express.js , REST APIs 
 - MongoDB, PostgreSQL
     
-## 🚀 About Me 
-- 🔭 I’m currently trainee at @CodeAcademy_om .
-- 🌱 I’m currently learning [C# | Next.js | TypeScript | DevOps].
-- 🤝 I’m open to collaborate on **full-stack projects**, **startups**, or **open-source**.
- 
 ---
 ## 🧠 Fun Fact
 
