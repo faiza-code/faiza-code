@@ -7,7 +7,6 @@
 - 🔭 I’m currently trainee at @CodeAcademy_om .
 - 🌱 I’m currently learning [C# | Next.js | TypeScript | DevOps].
 - 🤝 I’m open to collaborate on **full-stack projects**, **startups**, or **open-source**.
-- 
 ---
 
 ## 🔧 Tech Skill 
