@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning [C# | Next.js | TypeScript | DevOps].
 - 🤝 I’m open to collaborate on **full-stack projects**, **startups**, or **open-source**.
 - 📫 Reach me at: f2iza.na20@gmail.com
-- 🌐 Portfolio: https://f2iza.tech/
+- 🌐 Portfolio: 
 
 ---
 ## 🧠 Fun Fact
