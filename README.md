@@ -16,9 +16,7 @@
 - 🔭 I’m currently trainee at @CodeAcademy_om .
 - 🌱 I’m currently learning [C# | Next.js | TypeScript | DevOps].
 - 🤝 I’m open to collaborate on **full-stack projects**, **startups**, or **open-source**.
-- 📫 Reach me at: f2iza.na20@gmail.com
-- 🌐 Portfolio: 
-
+ 
 ---
 ## 🧠 Fun Fact
 
@@ -28,5 +26,4 @@
 
 ## 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/faiza-alhandali-631207193
-- Portfolio: https://f2iza.tech/
 - Email: f2iza.na20@gmail.com
